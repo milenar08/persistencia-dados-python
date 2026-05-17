@@ -1,0 +1,3 @@
+Python é uma linguagem poderosa.
+Manipulação de arquivos em Python.
+Persistência de dados com Python.
